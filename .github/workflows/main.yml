@@ -1,4 +1,4 @@
-name: Copy Branches
+name: Copy To Branches
 on:
   workflow_dispatch:
 jobs:
